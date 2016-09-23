@@ -1,0 +1,4 @@
+You need something called beautiful soup. I dont know how to install it on MACs so google it. The folder is in here.
+Main.py is the file to run after installing beautiful soup. 
+TOI source = TOI MAIN
+CNN source = CNN MAIN
